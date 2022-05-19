@@ -1,4 +1,4 @@
- ## 👋 Hola!, soy Agustín Vega, frontend developer 🚀
+ ## 👋 Hola!, Soy Agustín Vega, Frontend Developer 🚀
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=akus-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
