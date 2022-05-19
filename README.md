@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akus-dev&layout=compact&theme=radical&&hide=php)](https://github.com/ramzeta/github-readme-stats)
 
-### IDE
+### Editor de texto
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 
 ### Lenguajes
