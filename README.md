@@ -37,6 +37,8 @@
 ![Nextjs](https://img.shields.io/badge/Next.js-292929?logo=nextdotjs&logoColor=white)
 
 ### Por aprender
+![Svelte](https://img.shields.io/badge/Svelte-f23b00?logo=svelte&logoColor=f2f2f2)
+
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ![ExpressJS](https://img.shields.io/badge/Express.js-93c324?logo=express&logoColor=white)
@@ -45,5 +47,5 @@
 
 ![Vue JS](https://img.shields.io/badge/Vue.js-3dae7b?logo=vuedotjs&logoColor=f2f2f2)
 
-![Vue JS](https://img.shields.io/badge/Nuxt.js-387a6a?logo=nuxtdotjs&logoColor=f2f2f2)
+![Nuxt JS](https://img.shields.io/badge/Nuxt.js-387a6a?logo=nuxtdotjs&logoColor=f2f2f2)
 
