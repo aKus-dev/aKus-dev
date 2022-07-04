@@ -36,9 +36,9 @@
 ### Aprendiendo
 ![Nextjs](https://img.shields.io/badge/Next.js-292929?logo=nextdotjs&logoColor=white)
 
-### Por aprender
 ![Svelte](https://img.shields.io/badge/Svelte-f23b00?logo=svelte&logoColor=f2f2f2)
 
+### Por aprender
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ![ExpressJS](https://img.shields.io/badge/Express.js-93c324?logo=express&logoColor=white)
