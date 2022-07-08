@@ -22,8 +22,6 @@
 ### Frameworks y Librerías 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-![Svelte](https://img.shields.io/badge/Svelte-f23b00?logo=svelte&logoColor=f2f2f2)
-
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-7046b2?logo=redux&logoColor=white)
 
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-841ff5?logo=framer&logoColor=white)
@@ -37,6 +35,8 @@
 
 ### Aprendiendo
 ![Nextjs](https://img.shields.io/badge/Next.js-292929?logo=nextdotjs&logoColor=white)
+
+![Svelte](https://img.shields.io/badge/Svelte-f23b00?logo=svelte&logoColor=f2f2f2)
 
 ### Por aprender
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
